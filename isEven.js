@@ -21,9 +21,5 @@ console.log(elevenIsEven);
 
 //you don't need to set your retuen values from functions to vaiables to use them
 
-const isEven  = function (num) {
-  return num % 2 === 0;
-}
-
 console.log(isEven(10));
 console.log(isEven(11));
